@@ -1,0 +1,3 @@
+JWT_SECRET='kasiajasleos'
+LOG_LEVEL=DEBUG
+
